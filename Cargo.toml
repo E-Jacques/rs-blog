@@ -1,8 +1,10 @@
 [package]
-name = "rs-blog"
+name = "rs_blog"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+getset = "0.1.2"
+markdown = "1.0.0-alpha.8"
